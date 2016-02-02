@@ -14,7 +14,7 @@
  *
  */
 metadata {
-  definition (name: "AJ-Virtual-Garage-Door-Opener", namespace: "ajapps", author: "Alan Jones <alanjones19@gmail.com>") {
+  definition (name: "AJ-Virtual-Garage-Door-Opener", namespace: "ajapps", author: "Alan Jones") {
     capability "Actuator"
     capability "Door Control"
     capability "Garage Door Control"
