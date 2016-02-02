@@ -14,7 +14,7 @@
  *
  */
 metadata {
-  definition (name: "Alan's Simulated Garage Door Opener", namespace: "alan", author: "Alan Jones") {
+  definition (name: "AJ-Virtual-Garage-Door-Opener", namespace: "ajapps", author: "Alan Jones <alanjones19@gmail.com>") {
     capability "Actuator"
     capability "Door Control"
     capability "Garage Door Control"
